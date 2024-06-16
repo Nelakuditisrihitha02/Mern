@@ -1,0 +1,19 @@
+.sor{
+    height:200px;
+    width:180px;
+    border:1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+#sty{
+    background-color: rgb(34, 88, 109);
+    color: blue;
+    font-weight: 700px;
+}
+#hor{
+    height:75px;
+    width:350px;
+    border: 1px solid black;
+    display: flex;
+}

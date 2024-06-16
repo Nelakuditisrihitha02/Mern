@@ -1,0 +1,13 @@
+.fi{
+    height:32.5vh;
+    width:55vw;
+    background-color: aqua;
+    border:2px solid black;
+    border-radius: 15px;
+}
+
+#shapes{
+    height:28vh;
+    width:75vw;
+}
+
